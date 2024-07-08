@@ -1,0 +1,13 @@
+Project Akhir Praktikum Pemrograman Web 1 
+
+Website : Anime List
+
+Kelompok 5
+Anggota Kelompok :
+- Randi Nur Rizki (085022007)
+- Cahya Nandita (085022008)
+- Mosir Togi (085022014)
+- Ricky Erlangga Handoko (085022023)
+
+Link GitHub :
+https://github.com/rozalyne/UAS_PRAKTIKUM_PEMROGRAMAN_WEBSITE

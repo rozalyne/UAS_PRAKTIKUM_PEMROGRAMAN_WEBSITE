@@ -12,7 +12,7 @@ if (isset($_POST['submit'])) {
     $pass = $mysqli->real_escape_string($_POST['password']);
 
     if ($user == "" || $pass == "") {
-        $error = "Username or password field is empty.";
+        $error = "Username Tidak Terdaftar/Password Yang di masukan Salah!";
     } else {
         $result = $mysqli->query("SELECT * FROM login WHERE username='$user' AND password=md5('$pass')")
             or die("Could not execute the select query.");

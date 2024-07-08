@@ -108,8 +108,6 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-w
-
         <h2>Register</h2>
         <form name="form1" method="post" action="">
             <table>
